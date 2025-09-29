@@ -230,4 +230,17 @@ border: none;
         .about-items{
             flex-direction: column;
         }
+
+        .banner {
+            flex-direction: column;
+            margin: 20px;
+        }
+        .banner-profile-pic{
+            width: 100%;
+        }
+
+        nav{
+            flex-direction: column;
+            width: none;
+        }
 }
